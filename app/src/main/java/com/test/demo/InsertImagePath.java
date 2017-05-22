@@ -51,6 +51,8 @@ public class InsertImagePath {
 
             if (!mPath.contains(drawablePath)) {
                 mPath.add(drawablePath);
+            }else {
+
             }
         }
 
